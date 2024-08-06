@@ -22,9 +22,9 @@ sudo apt-get install python3-pip -y
 sudo apt-get install nodejs -y
 sudo apt-get install npm -y
 
-git clone https://github.com/levanderdev/XeriaC2
+git clone https://github.com/caa440/ddosv2.git
 
-cd XeriaC2
+cd ddosv2
 
 node auto_install_modules.js 404.js HTTP-NIGGA.js BYPASS.js holdv2.js Tlsv1.js TLSv2.js MIX.js spike.js XENN-BYPASS.js anus.js
 
@@ -37,7 +37,7 @@ python3 xeriac2.py
 ## Login 
 ```sh
 Username : root
-Password : 23
+Password : PASA404
 
 ```
 ## How To Install Modules
