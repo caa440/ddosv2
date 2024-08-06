@@ -25,7 +25,7 @@ bots = len(proxys)
 def ascii_vro():
     clear()
     print(f'''
-   Ｘｅｒｉａ
+   CAA404
 
 
 
@@ -40,7 +40,7 @@ def ascii_vro():
 
 
 
-     Ｘｅｒｉａ
+     CAA404
 
 
     ''')
@@ -54,17 +54,17 @@ def ascii_vro():
 
 
 
-     Ｘｅｒｉａ                
+     CAA404                
 
     ''')
     time.sleep(0.6)
     clear()
     print(f"""
 
-  Ｘｅｒｉａ
-Ｘｅｒｉａ
-Ｘｅｒｉａ
-Ｘｅｒｉａ
+  CAA404
+CAA404
+CAA404
+CAA404
     """)
     time.sleep(0.8)
     clear()
@@ -155,8 +155,8 @@ P = '\033[1;37m' #PUTIH
 def layer7():
 	os.system ("clear")
 	print("""
-\033[37m           ,MMM\033[35m8&&&.           WELCOME TO - BIGBANGPANEL
-\033[37m      _...MMMMM\033[35m88&&&&..._      KETHEK MAN & Mr. E-CYBER
+\033[37m           ,MMM\033[35m8&&&.           WELCOME TO - PASA404PANEL
+\033[37m      _...MMMMM\033[35m88&&&&..._       MODE GALAU SIAP BERKILAU
 \033[37m   .::'''MMMMM8\033[35m8&&&&&&'''::.   EXECUTOR TEAM Version, 1.2
 \033[37m  ::     MMMMM8\033[35m8&&&&&&     ::  2023 - 2024
 \033[37m  '::....MMMMM8\033[35m8&&&&&&....::'
@@ -213,8 +213,8 @@ def menu():
 def menu():
     os.system ("clear")
     print("""
-\033[37m           ,MMM\033[35m8&&&.           WELCOME TO - BIGBANGPANEL
-\033[37m      _...MMMMM\033[35m88&&&&..._      KETHEK MAN & Mr. E-CYBER
+\033[37m           ,MMM\033[35m8&&&.           WELCOME TO - PASA404PANEL
+\033[37m      _...MMMMM\033[35m88&&&&..._      MODE GALAU SIAP BERKILAU
 \033[37m   .::'''MMMMM8\033[35m8&&&&&&'''::.   EXECUTOR TEAM Version, 1.2
 \033[37m  ::     MMMMM8\033[35m8&&&&&&     ::  2023 - 2024
 \033[37m  '::....MMMMM8\033[35m8&&&&&&....::'
@@ -871,7 +871,7 @@ CLEAR   ► CLEAR TERMINAL
 def login():
     os.system("clear")
     user = "root"
-    passwd = "23"
+    passwd = "PASA404"
     username = input("""
 
 
